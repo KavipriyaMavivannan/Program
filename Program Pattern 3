@@ -7,7 +7,7 @@ public class Main {
         int a,b,c;
         Scanner d = new Scanner(System.in)
         System.out.print("enter a number:");
-        C= d.nextInt();
+        c= d.nextInt();
                 for(a=1;a<=c;a++){
                     for(b=1;b<=a;b++){
                         System.out.print(a+" ");
